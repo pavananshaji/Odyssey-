@@ -79,7 +79,7 @@ Screenshots are in the `/screenshots` folder.
 
 ## Demo Video
 
-Demo video (maximum 3 minutes): [Watch Demo](https://)
+Demo video (maximum 3 minutes): [Watch Demo](https://drive.google.com/file/d/1PcC11SxIMa6iLDQTFSM5iVjvOYex9HDt/view?usp=sharing)
 
 Paste the Google Drive shareable link above and check that anyone with the link can view it.
 
