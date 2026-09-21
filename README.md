@@ -55,6 +55,12 @@ Update this list to match what your team actually built.
 ## GitHub repo link of the project
 
 [https://github.com/pavananshaji/Odyssey-](https://github.com/pavananshaji/Odyssey-)
+## Team
+
+- [Hadhi Mohammed](https://github.com/their-username)
+- [Muhammed Sherief](https://github.com/their-username)
+- [Pavanan](https://github.com/pavananshaji)
+- [Sooraj](https://github.com/their-username)
 
 ## Proof of Google AI Usage
 
