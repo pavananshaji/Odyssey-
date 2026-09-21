@@ -57,10 +57,10 @@ Update this list to match what your team actually built.
 [https://github.com/pavananshaji/Odyssey-](https://github.com/pavananshaji/Odyssey-)
 ## Team
 
-- [Hadhi-lrn](https://github.com/their-username)
-- [Muhammed Sherief](https://github.com/their-username)
+- [Hadhi mohammed K P](https://github.com/Hadhi-lrn)
+- [Muhammed Sherief](https://github.com/sherief7755)
 - [Pavanan](https://github.com/pavananshaji)
-- [Sooraj](https://github.com/their-username)
+- [Sooraj](https://github.com/soorajds58)
 
 ## Proof of Google AI Usage
 
