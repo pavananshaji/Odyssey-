@@ -57,7 +57,7 @@ Update this list to match what your team actually built.
 [https://github.com/pavananshaji/Odyssey-](https://github.com/pavananshaji/Odyssey-)
 ## Team
 
-- [Hadhi Mohammed K P](https://github.com/their-username)
+- [Hadhi-lrn](https://github.com/their-username)
 - [Muhammed Sherief](https://github.com/their-username)
 - [Pavanan](https://github.com/pavananshaji)
 - [Sooraj](https://github.com/their-username)
