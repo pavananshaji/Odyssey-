@@ -66,7 +66,7 @@ Update this list to match what your team actually built.
 
 Proof is in the `/proofs` folder.
 
-- [List each file, for example `proofs/prompt-and-response.png`, and say what it shows.]
+- None,we only used Claude.🤫️
 
 ## Screenshots
 
