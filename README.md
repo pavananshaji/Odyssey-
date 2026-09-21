@@ -6,7 +6,7 @@
 
 Students hear about hackathons and college events too late, or never. A hackathon is announced through posters and group chats, the registration deadline passes, and a student finds out afterwards.
 
-The problem we solve is wider than simply events. 
+The problem we solve is wider than just events. 
 Attendance, notes, timetables and event information all live in different,scattered and completely disorganized places, so students miss registrations and opportunities, and organizers cannot reach the people they built the event for. making it a loss for both parties.
 
 ## Project Description
