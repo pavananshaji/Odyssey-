@@ -58,9 +58,9 @@ Update this list to match what your team actually built.
 ## Team
 
 - [Hadhi mohammed K P](https://github.com/Hadhi-lrn)
-- [Muhammed Sherief](https://github.com/sherief7755)
+- [Muhammed Sherief](https://github.com/sherief7755-source)
 - [Pavanan](https://github.com/pavananshaji)
-- [Sooraj](https://github.com/soorajds58)
+- [Sooraj](https://github.com/soorajds58-sys)
 
 ## Proof of Google AI Usage
 
